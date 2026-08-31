@@ -17,7 +17,7 @@ COMMON_PASSWORDS = {
     "iloveyou",
     "abc123",
     "india123",
-    "Hello@123" 
+    "hello@123" 
 }
 
 
