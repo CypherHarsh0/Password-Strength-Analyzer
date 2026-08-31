@@ -112,4 +112,4 @@ Do not enter real passwords that you currently use on important accounts.
 YOUR NAME
 
 GitHub: https://github.com/CypherHarsh0
-LinkedIn: https://www.linkedin.com/in/harsh-nomul/
+LinkedIn: https://www.linkedin.com/in/harsh-nomul-132b46301/
